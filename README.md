@@ -1,8 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Ajay-308.io)
-
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3qVQH30eclxDn43uZzEX6C&ust=1665782152397000.gif">
+<img src="https://tenor.com/es/ver/coding-gif-24297652.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-308&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-308" /> </p>
 
 - 🔭 I’m currently working on **movies web app**
