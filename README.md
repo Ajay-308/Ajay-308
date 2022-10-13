@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Ajay-308.io)
+
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3qVQH30eclxDn43uZzEX6C&ust=1665782152397000.gif">
@@ -27,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-308&show_icons=true&locale=en" alt="ajay-308" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-308&" alt="ajay-308" /></p>
+
