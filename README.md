@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img src="https://tenor.com/es/ver/coding-gif-24297652.gif" width ="1000" height="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-308&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-308" /> </p>
 
