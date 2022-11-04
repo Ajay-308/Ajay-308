@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-308&show_icons=true&locale=en&layout=compact" alt="ajay-308" width="500" /></p>
 
-
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-308&" alt="ajay-308"  width="500"/></p>
 
