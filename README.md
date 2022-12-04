@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Real world project**
 
-- 🌱 I’m currently learning **MERN STACK , Computer Networking,**
+- 🌱 I’m currently learning **MERN STACK , Computer Networking,Data Structure and Algorithms**
 
 - 💬 Ask me about **web development**
 
