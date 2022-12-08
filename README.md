@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **mr.ajaykuamr308@gmail.com**
+- 📫 How to reach me **mr.ajaykuamr308@gmail.com , Linkedin:-https://www.linkedin.com/in/ajay-b94a13233**
 
 - ⚡ Fun fact **I think I am funny**
 
