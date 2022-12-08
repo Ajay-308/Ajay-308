@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **mr.ajaykuamr308@gmail.com , Linkedin:-https://www.linkedin.com/in/ajay-b94a13233**
+- 📫 How to reach me **mr.ajaykuamr308@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ajay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajay-b94a13233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay" height="30" width="40" /></a>
 <a href="https://instagram.com/ajaysingh-308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaysingh-308" height="30" width="40" /></a>
 </p>
 
