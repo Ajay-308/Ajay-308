@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **mr.ajaykuamr308@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
