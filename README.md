@@ -61,9 +61,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
   </a>
    <a href="" target="_blank">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> 
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
+ </a>
 
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -74,9 +72,6 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"
-      alt="JWT" />
 </p>
 
 <h3 align="center">Database</h3>
