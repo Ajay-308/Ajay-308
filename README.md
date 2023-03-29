@@ -140,14 +140,6 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
    
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="https://github.com/Ajay-308">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay&theme=gruvbox&hide_border=true)](https://github.com/Ajay-308" alt="Bharat's GitHub Stats Graph"/>
-</a>
-<br><br>
-<a href="https://github.com/Ajay-308">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Ajay%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
-</a>
-
 </div>
 
 ## Projects
@@ -162,7 +154,3 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mr.ajaykumar308@gmail.com
 
-<!---
-AnantJainn/AnantJainn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
