@@ -99,12 +99,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
- <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://camo.githubusercontent.com/0e86f1762fab93430da0825c20352b3cb424a65f9daa1a6073e3022a94c6dbef/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6963726f736f66742b417a75726526636f6c6f723d303037384434266c6f676f3d4d6963726f736f66742b417a757265266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="aws"/> 
-  </a>
-   <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
-  </a>
+
 
   <a href="" target="_blank">
     <img  src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="azure"/> 
@@ -132,9 +127,6 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
   </div>
  
 </div>
-   
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
 </div>
 
 ## Projects
