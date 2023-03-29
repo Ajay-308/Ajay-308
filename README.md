@@ -59,6 +59,11 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
     <img src="https://camo.githubusercontent.com/8552f38715af0ea9f364801b055f7a2448812b49075860983d53a81414349623/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6578742e6a7326636f6c6f723d303030303030266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d"
       alt="react"/> 
   </a>
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> 
+  <a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
+  </a>
 
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -76,10 +81,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 
 <h3 align="center">Database</h3>
 <p align="center">
-  <a href="" target="_blank"> 
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
-      alt="Firebase"/> 
-  </a>
+
   <a href="" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="MySQL"/> 
@@ -98,14 +100,6 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
   <a href="https://github.com/bindian0509" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://gitlab.com/bindian0509" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
@@ -116,15 +110,9 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
    <a href="https://aws.amazon.com/" target="_blank">
     <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
   </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/> 
-  </a>
 
   <a href="" target="_blank">
     <img  src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="azure"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
@@ -140,10 +128,10 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://www.linkedin.com/in/anant-jain-bb49b9205" target="_blank">
+    <a  href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
-    <a href="https://twitter.com/AnantJain09?t=VZvALf-eTUCxTNT8SrRncw&s=08" target="_blank">
+    <a href="https://twitter.com/?t=VZvALf-eTUCxTNT8SrRncw&s=08" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
   </div>
@@ -152,19 +140,20 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
    
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="https://github.com/AnantJainn">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnantJainn&theme=gruvbox&hide_border=true)](https://github.com/AnantJainn" alt="Bharat's GitHub Stats Graph"/>
+<a href="https://github.com/Ajay-308">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnantJainn&theme=gruvbox&hide_border=true)](https://github.com/Ajay-308" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>
-<a href="https://github.com/AnantJainn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnantJainn&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Anant%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+<a href="https://github.com/Ajay-308">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Anant%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
 </a>
 
 </div>
 
 ## Projects
-- Disney+Hotstar Clone
-- Basic banking system
+- chatWebsite
+- threejs website
+- chatbot
 
 
 
