@@ -20,7 +20,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=skyblue"
       alt="c"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
