@@ -24,7 +24,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
       alt="c"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=green"
       alt="c++"/>
   </a>
   <a href="https://www.python.org" target="_blank"> 
