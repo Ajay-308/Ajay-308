@@ -52,7 +52,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
       alt="bootstrap"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black react&backgroundColor=lightgreen"
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black react&backgroundColor=green"
       alt="react"/> 
   </a>
  <a href="https://reactjs.org/" target="_blank"> 
