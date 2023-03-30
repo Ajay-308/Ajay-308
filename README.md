@@ -48,7 +48,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 <h3 align="center">Frontend</h3>
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&for-the-badge&backgroundColor=red"
       alt="bootstrap"/>
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
