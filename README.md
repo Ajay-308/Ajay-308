@@ -121,7 +121,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
     <a  href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
-    <a href="https://twitter.com/?t=VZvALf-eTUCxTNT8SrRncw&s=08" target="_blank">
+    <a href="https://twitter.com/ajaysin308" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
   </div>
