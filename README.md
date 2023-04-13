@@ -136,7 +136,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 
 
 
-- 👀 I’m interested in Website design
-- 🌱 I’m currently learning Machine learing
+- 👀 I’m interested in Website designing.
+- 🌱 I’m currently learning Machine learing & threeJs.
 - 📫 How to reach me mr.ajaykumar308@gmail.com
 
