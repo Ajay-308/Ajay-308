@@ -131,11 +131,11 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <a href="https://github.com/Ajay-308">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&theme=gruvbox&hide_border=true)](https://github.com/AnantJainn" alt="Bharat's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&bg_color=rgb(2,0,36)&hide_border=true)](https://github.com/AnantJainn" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>
 <a href="https://github.com/Ajay-308">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&bg_color=linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%)&hide_border=true&custom_title=Ajay%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&bg_color=rgb(2,0,36)&hide_border=true&custom_title=Ajay%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
 </a>
 
 
