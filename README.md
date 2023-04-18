@@ -3,7 +3,7 @@
 <h3>About Me :</h3>  
  <p>
  👩‍🎓  Second year AI&DS student at USAR, GGSIPU.
-<br>💫 I’m a Full stack developer currently learning AI/ML & Exploring beauti of life.
+<br>💫 I’m a Full stack developer currently learning AI/ML,DSA & Exploring beauti of life.
 <br>⭐ Besides all that I love to play cricket , watching webseries and listen to music. 
 <br>👩‍💻 Constantly learning. I'm interested in Open Source conrtibution!
 
