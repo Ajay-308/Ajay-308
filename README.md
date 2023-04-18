@@ -130,7 +130,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 </div>
 
 ## Projects
-- Ipl score prediction
+- Ipl score predictor
 - Auto Analysis
 - chatWebsite
 - threejs website
