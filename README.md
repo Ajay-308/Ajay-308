@@ -4,7 +4,7 @@
  <p>
  👩‍🎓  Second year AI&DS student at USAR, GGSIPU.
 <br>💫 I’m a Full stack developer currently learning AI/ML,DSA & Exploring beauti of life.
-<br>⭐ Besides all that I love to play cricket , watching webseries and listen to music. 
+<br>⭐ Besides all that I love to play cricket , watching webseries, listen to music. 
 <br>👩‍💻 Constantly learning. I'm interested in Open Source conrtibution!
 
 make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
