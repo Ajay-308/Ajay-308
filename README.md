@@ -8,8 +8,8 @@
 <br>👩‍💻 Constantly learning. I'm interested in Open Source conrtibution!
 
 make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
-
-## Coding Skills
+<!-- 
+## Coding Skills -->
 
 <!-- <p>
   <img src ="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" height="80px" />
