@@ -131,7 +131,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <a href="https://github.com/Ajay-308">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&bg_color=rgb(2,0,36)&hide_border=true)](https://github.com/AnantJainn" alt="Bharat's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&bg_color=red&hide_border=true)](https://github.com/AnantJainn" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>
 <a href="https://github.com/Ajay-308">
