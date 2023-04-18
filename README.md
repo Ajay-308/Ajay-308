@@ -128,6 +128,15 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
  
 </div>
 </div>
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+<a href="https://github.com/Ajay-308">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&theme=gruvbox&hide_border=true)](https://github.com/AnantJainn" alt="Bharat's GitHub Stats Graph"/>
+</a>
+<br><br>
+<a href="https://github.com/Ajay-308">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Anant%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+</a>
 
 
 ## Projects
