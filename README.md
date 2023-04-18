@@ -130,7 +130,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 </div>
 # 📊  Language Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-308&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay_308&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Projects
