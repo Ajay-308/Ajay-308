@@ -144,8 +144,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 - Auto Analysis
 - chatWebsite
 - threejs website
-- chatbot
-
+- dashboard
 
 
 - 👀 I’m interested in Website designing.
