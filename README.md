@@ -138,8 +138,8 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&color=red&hide_border=true&custom_title=Ajay%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
 </a> -->
 <p>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="50%"   src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-308&theme=nightowl&hide_border=true&fire=DD2727" alt="Ajay-308" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-308&theme=nightowl&hide_border=true&fire=DD2727" alt="Ajay-308" />
 <!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-308&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Ajay-308" /> -->
 </p>
 
