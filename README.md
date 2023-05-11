@@ -137,9 +137,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 <a href="https://github.com/Ajay-308">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&color=red&hide_border=true&custom_title=Ajay%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
 </a>
-# 📊  Language Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-308&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
