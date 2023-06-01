@@ -142,7 +142,7 @@ make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
 <!--   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-308&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="Ajay-308" /> -->
 </p>
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/Ajay-308/Ajay-308/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Ajay-308/blob/output/github-contribution-grid-snake.gif)
 
 
 
