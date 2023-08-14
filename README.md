@@ -1,13 +1,21 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Ajay</h1>
 <h3>About Me :</h3>  
- <p>
- 👩‍🎓  Second year AI&DS student at USAR, GGSIPU.
-<br>💫 I’m a Full stack developer currently learning AI/ML,DSA & Exploring beauti of life.
-<br>⭐ Besides all that I love to play cricket , watching webseries, listen to music. 
-<br>👩‍💻 Constantly learning. I'm interested in Open Source conrtibution!
+ <p>🚀 AI&DS Student | Full Stack Dev | Cricket Enthusiast</p>
+  <a href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/ajaysin308" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
-make connection on  [Linkedin](https://www.linkedin.com/in/ajay-b94a13233/)
-<!-- 
+<h2 align="center">About Me</h2>
+<p align="center">
+  🎓 Second Year AI&DS Student at USAR, GGSIPU.<br>
+  ✨ Embarking on a journey to master AI/ML, DSA & the art of life.<br>
+  🏏 Devoted Cricket Fanatic | 📺 Avid Web Series Buff | 🎵 Passionate Music Lover.<br>
+  💻 Forever Learning. Infatuated with the Magic of Open Source!
+</p>
 ## Coding Skills -->
 
 <!-- <p>
