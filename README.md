@@ -124,16 +124,7 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a> 
 </p>
-<h3 align="center">Connect with me</h3>
-<div style="margin-top:10" align="center">
-  <div>
-    <a  href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-    </a>
-    <a href="https://twitter.com/ajaysin308" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-  </div>
+
  
 </div>
 </div>
