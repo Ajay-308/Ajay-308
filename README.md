@@ -134,10 +134,8 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&color=red&hide_border=true)](https://github.com/Ajay-308" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>
-<a href="https://github.com/Ajay-308">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&color=red&hide_border=true&custom_title=Ajay%20%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
-</a> 
 
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-308&theme=nightowl&hide_border=true&fire=DD2727" alt="Ajay-308" />
-   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats"/>
+
+  <img width="45%"   src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-308&theme=nightowl&hide_border=true&fire=DD2727" alt="Ajay-308" />
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
