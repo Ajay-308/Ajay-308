@@ -139,3 +139,5 @@
 </a> -->
 
   <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-308&theme=nightowl&hide_border=true&fire=DD2727" alt="Ajay-308" />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats"/>
+</p>
