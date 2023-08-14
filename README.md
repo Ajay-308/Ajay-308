@@ -52,11 +52,11 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&color=red&hide_border=true&custom_title=Ajay%20%27s%20Github%20Stats" alt="Ajay's GitHub Stats"/>
 </p>
 
-<!-- <h2 align="center">My Contributions Eaten by a Snake 🐍</h2>
+ <h2 align="center">My Contributions Eaten by a Snake 🐍</h2>
 
 <p align="center">
   <img src="https://github.com/Ajay-308/Ajay-308/edit/main/github-contribution-grid-snake.gif" alt="GitHub Contributions Snake"/>
-</p> -->
+</p> 
 
 <p align="center">Thank you for visiting my profile. Let's connect and collaborate!</p>
 
