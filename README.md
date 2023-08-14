@@ -1,18 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Ajay</h1>
 
  <p align="center">🚀 AI&DS Student | Full Stack Dev | Cricket Enthusiast</p>
- <p align="center">
-  <a align="center" href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
-    <img align="center" <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0080FF" alt="LinkedIn"/>
-  </p>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0080FF" alt="LinkedIn"/>
   </a>
-  <p align="center">
-  <a  href="https://twitter.com/ajaysin308" target="_blank">
-<img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter"/>
-  </p>
+  <a href="https://twitter.com/ajaysin308" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter"/>
   </a>
 </div>
+
 
 <h2 align="center">About Me</h2>
 <p align="center">
