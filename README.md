@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Ajay</h1>
 
- <p align="center">🚀 AI&DS Student | Full Stack Dev | Cricket Enthusiast</p>
+ <p align="center">🚀 AI&DS Student | Full Stack Dev | ML Enthusiast</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
     <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0080FF" alt="LinkedIn"/>
