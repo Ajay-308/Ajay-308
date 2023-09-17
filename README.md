@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Ajay</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Ajay</h1>
 
- <p align="center">🚀 AI&DS Student | Full Stack Dev | ML Enthusiast</p>
-<div align="center">
+ <p align="left">🚀 AI&DS Student | Full Stack Dev | ML Enthusiast</p>
+<div align="left">
   <a href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
     <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0080FF" alt="LinkedIn"/>
   </a>
@@ -11,9 +11,9 @@
 </div>
 
 
-<h2 align="center">About Me</h2>
-<p align="center">
-  🎓 Second Year AI&DS Student at USAR, GGSIPU.<br>
+<h2 align="left">About Me</h2>
+<p align="left">
+  🎓 Third Year AI&DS Student at USAR, GGSIPU.<br>
   ✨ Embarking on a journey to master AI/ML, DSA & the art of life.<br>
   🏏 Devoted Cricket Fanatic | 📺 Avid Web Series Buff | 🎵 Passionate Music Lover.<br>
   💻 Forever Learning. Infatuated with the Magic of Open Source!
