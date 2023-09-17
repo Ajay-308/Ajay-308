@@ -38,7 +38,9 @@
 <h2 align="center">GitHub Stats</h2> 
 
 <a href="https://github.com/Ajay-308">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&color=red&hide_border=true)](https://github.com/Ajay-308" alt="Ajay's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&color=red&hide_border=true&bg_color=000000" alt="Ajay's GitHub Stats Graph"/>
+</a>
+
 </a>
 <br><br>
 
