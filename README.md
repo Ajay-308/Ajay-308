@@ -1,4 +1,4 @@
-q<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Ajay</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Ajay</h1>
 
  <p align="center">🚀 AI&DS Student | Full Stack Dev | ML Enthusiast</p>
 <div align="center">
