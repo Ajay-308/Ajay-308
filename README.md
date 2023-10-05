@@ -50,6 +50,8 @@
 
 </div>
 
+![snake gif](https://github.com/Ajay-308/Ajay-308/blob/output/github-contribution-grid-snake.gif)
+
 
 <div align="left">
     <h2 class="center">Hacktoberfest'22 badges</h2>
