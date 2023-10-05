@@ -49,10 +49,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&theme=dark" alt="Ajay-308 GitHub Stats" />
 
 </div>
-<div align="left">
-    <h2>Watch my contributions get eaten by a snake 🐍</h2>
-    <img src="https://github.com/Ajay-308/Ajay-308/blob/output/github-contribution-grid-snake.gif" alt="Snake Gif" />
-</div>
+
 
 
 <div align="left">
