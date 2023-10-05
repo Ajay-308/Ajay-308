@@ -49,3 +49,14 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&theme=dark" alt="Ajay-308 GitHub Stats" />
 
 </div>
+<div align="left">
+  <h2 class="center">Watch my contributions get eaten by a snake 🐍</h2>
+ <img class="center" src="https://github.com/Ajay-308/Ajay-308/blob/output/github-contribution-grid-snake.gif" alt="Snake Gif" />
+</div>
+
+<div align="left">
+    <h2 class="center">Hacktoberfest'22 badges</h2>
+    <a href="https://holopin.io/@ajay308" class="center">
+        <img src="https://holopin.me/ajay308" alt="Holopin Badge" />
+    </a>
+</div>
