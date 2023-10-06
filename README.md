@@ -35,7 +35,7 @@
 </div>
 </div>
 
-<h2 align="center">GitHub Stats</h2> 
+<h2 align="left">GitHub Stats</h2> 
 
 <a href="https://github.com/Ajay-308">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&color=red&hide_border=true&theme=dark" alt="Ajay's GitHub Stats Graph"/>
@@ -46,7 +46,7 @@
 
 <div align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-308&theme=nightowl&hide_border=true&fire=DD2727" alt="Ajay-308 Streak Stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&count_private=true&show_icons=true&theme=dark" alt="Ajay-308 GitHub Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Ajay-308&show_icons=true&theme=codeSTACKr&locale=en&rank_icon=github" alt="Ajay-308 GitHub Stats" />
 
 </div>
 
