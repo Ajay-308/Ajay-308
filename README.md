@@ -52,9 +52,9 @@
 
 
 
-<div align="left">
-    <h2 class="center">Hacktoberfest'23 badges</h2>
-    <a href="https://holopin.io/@ajay308" class="center">
+<div style="text-align: center;">
+    <h2>Hacktoberfest'23 badges</h2>
+    <a href="https://holopin.io/@ajay308">
         <img src="https://holopin.io/@ajay308" alt="Holopin Badge" />
     </a>
 </div>
