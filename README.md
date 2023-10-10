@@ -50,12 +50,7 @@
 
 </div>
 
-<div style="text-align: center;">
-    <h2>Hacktoberfest'23 badges</h2>
-    <a href="https://holopin.io/@ajay308">
-        <img src="https://holopin.io/@ajay308" alt="Holopin Badge" />
-    </a>
-</div>
+[![An image of @ajay308's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ajay308)](https://holopin.io/@ajay308)
 
 
 
