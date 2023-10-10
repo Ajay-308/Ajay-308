@@ -51,10 +51,14 @@
 </div>
 
 
-
 <div style="text-align: center;">
     <h2>Hacktoberfest'23 badges</h2>
     <a href="https://holopin.io/@ajay308">
-        <img src="https://holopin.io/@ajay308" alt="Holopin Badge" />
+        <img src="https://holopin.io/image-url-here.jpg" alt="Holopin Badge" />
     </a>
 </div>
+
+
+
+
+
