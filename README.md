@@ -2,7 +2,7 @@
 
  <p align="left">🚀 AI&DS Student | Full Stack Dev | ML Enthusiast</p>
 <div align="left">
-  <a href="https://www.linkedin.com/in/ajay-b94a13233/" target="_blank">
+  <a href="https://www.linkedin.com/in/ajay308/" target="_blank">
     <img src="https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0080FF" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/ajaysin308" target="_blank">
