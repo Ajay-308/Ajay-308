@@ -40,9 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-308&show_icons=true&theme=codeSTACKr&locale=en&layout=donut&hide=Jupyter%20Notebook,CMake,HTML" alt="Ajay-308" /></p>
 
-<a href="https://github.com/Ajay-308">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay-308&color=red&hide_border=true&theme=dark" alt="Ajay's GitHub Stats Graph"/>
-</a>
 
 </a>
 <br><br>
