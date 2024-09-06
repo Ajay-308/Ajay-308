@@ -38,9 +38,9 @@
 
 <h2 align="left">GitHub Stats</h2> 
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-308&show_icons=true&theme=codeSTACKr&locale=en&layout=donut&hide=Jupyter%20Notebook,CMake,HTML&card_height=600&card_width=500" alt="Ajay-308" />
-</p>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay-308&show_icons=true&theme=codeSTACKr&locale=en&layout=donut&hide=Jupyter%20Notebook,CMake,HTML&card_height=800&card_width=330" alt="Ajay-308" />
+
 
 
 <div align="center">
