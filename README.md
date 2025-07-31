@@ -13,7 +13,7 @@
 
 <h2 align="left">About Me</h2>
 <p align="left">
-  🎓 Final Year AI&DS Student at USAR, GGSIPU.<br>
+  🎓 B.Tech Graduate.<br>
   ✨ Embarking on a journey to master AI/ML, DSA & the art of life, system design .<br>
   🏏 Devoted Cricket Fanatic | 📺 Avid Web Series Buff | 🎵 Passionate Music Lover.<br>
   💻 Forever Learning. Infatuated with the Magic of Open Source!
