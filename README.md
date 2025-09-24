@@ -29,7 +29,7 @@
 
 ```javascript
 const ajay = {
-    education: "Final Year AI&DS Student at USAR, GGSIPU",
+    education: "B.Tech Graduate, GGGSIPU",
     currentFocus: ["AI/ML", "System Design", "Data Structures & Algorithms"],
     passions: ["Cricket 🏏", "Web Series 📺", "Music 🎵"],
     philosophy: "Forever Learning. Infatuated with the Magic of Open Source!",
