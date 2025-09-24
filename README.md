@@ -35,6 +35,57 @@
  
 </div>
 </div>
+<div align="center"> 
+<h2 align="center">LeetCode Badges</h2>  
+<p align="center">
+
+  <!-- Submission Days Badges -->
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-500.gif" alt="500 Days Badge" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" alt="365 Days Badge" height="100" width="100" />
+  </a>
+
+  <!-- Annual Medals -->
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" alt="100 Days Badge 2025" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="50 Days Badge 2025" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200 Days Badge 2024" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="100 Days Badge 2024" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge 2024" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="50 Days Badge 2023" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="100 Days Badge 2023" height="100" width="100" />
+  </a>
+
+  <!-- Daily Medals -->
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-03-mar.gif" alt="Mar Badge 2024" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-02-feb.gif" alt="Feb Badge 2024" height="100" width="100" />
+  </a>
+
+  <!-- Study Plan Medals -->
+  <a href="https://leetcode.com/u/ajay308/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-intro-pandas.gif" alt="Introduction to Pandas Badge" height="100" width="100" />
+  </a>
+
+</p>
+</div>
+
 
 <h2 align="left">GitHub Stats</h2> 
 
